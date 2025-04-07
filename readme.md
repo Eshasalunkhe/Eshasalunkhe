@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello, I'm Esha Salunkhe
 🔍I'm currently working on aspiring Full stack development course, enhancing my web development skills and building creative, responsive websites.<br>🧑‍🤝‍🧑I'm looking to collaborate on frontend projects, UI/UX designs.<br>🤝I'm looking for help with gaining hands-on experience in full stack development and real-world projects.<br>👩‍💻Ask me about HTML, CSS, JavaScript, Python, Internships or how i got started in tech!<br>✨Fun Fact: I'm a tech enthusiast with creative side-I love swimming and exploring new places to spark fresh ideas!  
 
 
